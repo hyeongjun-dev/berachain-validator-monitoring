@@ -5,9 +5,10 @@
 All in one monitoring for `Bera` blockchain.
 This dashboard is designed to monitor the validator node of the `Bera` chain.
 
-![Screenshot1](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/screenshot1.png)
-![Screenshot2](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/screenshot2.png)
-![Screenshot3](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/screenshot3.png)
+> **Note**:
+> This dashboard is also available on the [Grafana Dashboard Community](https://grafana.com/grafana/dashboards/20305-bera-chain-validator-monitoring)
+
+![screenshot](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/screenshot.png)
 
 ## Getting started
 
