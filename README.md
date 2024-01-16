@@ -71,9 +71,9 @@ branch. Pull requests are warmly welcome.
 - `Berachain` Project : https://www.berachain.com
 - `Berachain` GitHub : https://github.com/berachain
 
-### Contact
+### Who am I
 
-- Website : https://hyeongjun-dev.webflow.io
+- Author : https://hyeongjun-dev.webflow.io
 - Twitter : [@devgang_eth](https://twitter.com/devgang_eth)
 - GitHub : https://github.com/hyeongjun-dev
 - Email : hyeongjun.dev@gmail.com
