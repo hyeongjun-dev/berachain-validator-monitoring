@@ -27,7 +27,7 @@
       "type": "grafana",
       "id": "grafana",
       "name": "Grafana",
-      "version": "10.3.0-64796"
+      "version": "10.4.0-65039"
     },
     {
       "type": "datasource",
@@ -82,7 +82,7 @@
       }
     ]
   },
-  "description": "All in one monitoring for Bera chain.\nThis dashboard is designed to monitor the validator node of the Bera chain.",
+  "description": "All in one monitoring for Berachain.\nThis dashboard is designed to monitor the validator node of the Berachain.",
   "editable": true,
   "fiscalYearStartMonth": 0,
   "gnetId": 11074,
@@ -167,7 +167,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -240,7 +240,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -332,7 +332,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -420,7 +420,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -488,7 +488,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -746,7 +746,7 @@
           }
         ]
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1100,7 +1100,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1170,7 +1170,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1240,7 +1240,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1310,7 +1310,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1556,7 +1556,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1643,7 +1643,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -1731,8 +1731,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -1833,8 +1832,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1962,8 +1960,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "super-light-green",
-                "value": null
+                "color": "super-light-green"
               },
               {
                 "color": "red",
@@ -2043,8 +2040,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2128,7 +2124,7 @@
           }
         ]
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2213,7 +2209,7 @@
         "content": "### Chain: ${chain} / Instance : ${instance}",
         "mode": "markdown"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "transparent": true,
       "type": "text"
     },
@@ -2243,8 +2239,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2284,7 +2279,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2330,8 +2325,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2371,7 +2365,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2418,8 +2412,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2459,7 +2452,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2505,8 +2498,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2546,7 +2538,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2584,8 +2576,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2626,7 +2617,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2690,8 +2681,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2731,7 +2721,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2777,8 +2767,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -2818,7 +2807,7 @@
         "showThresholdMarkers": true,
         "sizing": "auto"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2862,8 +2851,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "red",
-                "value": null
+                "color": "red"
               },
               {
                 "color": "yellow",
@@ -2912,7 +2900,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -2962,8 +2950,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -3001,7 +2988,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -3046,8 +3033,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -3085,7 +3071,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -3131,8 +3117,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -3170,7 +3155,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -3216,8 +3201,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "rgba(50, 172, 45, 0.97)",
-                "value": null
+                "color": "rgba(50, 172, 45, 0.97)"
               },
               {
                 "color": "rgba(237, 129, 40, 0.89)",
@@ -3259,7 +3243,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -3299,8 +3283,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "light-yellow",
@@ -3344,7 +3327,7 @@
         "text": {},
         "valueMode": "color"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -3470,8 +3453,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -3735,8 +3717,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -3979,8 +3960,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4148,8 +4128,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4290,8 +4269,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4432,8 +4410,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4574,8 +4551,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -4651,8 +4627,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4691,7 +4666,7 @@
         "sizing": "auto",
         "valueMode": "color"
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -4775,8 +4750,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -4994,8 +4968,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -5162,8 +5135,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -5269,8 +5241,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -5302,7 +5273,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -5351,8 +5322,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -5384,7 +5354,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -5429,8 +5399,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -5462,7 +5431,7 @@
         "textMode": "auto",
         "wideLayout": true
       },
-      "pluginVersion": "10.3.0-64796",
+      "pluginVersion": "10.4.0-65039",
       "targets": [
         {
           "datasource": {
@@ -5492,7 +5461,7 @@
       "type": "stat"
     }
   ],
-  "refresh": "",
+  "refresh": "15s",
   "revision": 1,
   "schemaVersion": 39,
   "tags": [
@@ -5608,6 +5577,8 @@
     "hidden": false,
     "now": true,
     "refresh_intervals": [
+      "5s",
+      "15s",
       "30s",
       "1m",
       "5m",
@@ -5627,8 +5598,8 @@
     ]
   },
   "timezone": "browser",
-  "title": "Bera chain Validator Monitoring",
+  "title": "Berachain Validator Monitoring",
   "uid": "bz8kPr671",
-  "version": 29,
+  "version": 5,
   "weekStart": ""
 }

@@ -1,9 +1,9 @@
-![Bera Chain](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/berachain.jpg)
+![Berachain](https://raw.githubusercontent.com/hyeongjun-dev/berachain-validator-monitoring/main/image/berachain.jpg)
 
-# Bera Chain Validator Monitoring
+# Berachain Validator Monitoring
 
-All in one monitoring for `Bera` blockchain.
-This dashboard is designed to monitor the validator node of the `Bera` chain.
+All in one monitoring for `Berachain`.
+This dashboard is designed to monitor the validator node of the `Berachain`.
 
 > **Note**:
 > This dashboard is also available on the [Grafana Dashboard Community](https://grafana.com/grafana/dashboards/20305-bera-chain-validator-monitoring)
@@ -13,14 +13,14 @@ This dashboard is designed to monitor the validator node of the `Bera` chain.
 ## Getting started
 
 - Dedicated monitoring instance : `Prometheus` + `Grafana` + `Node Exporter`
-- Nodes : `Bera chain validator node` + `node exporter`
+- Nodes : `Berachain validator node` + `node exporter`
 - Communication : For a secure and light connection, I recommend scraping only allowed connections. You can also use a reverse proxy if you prefer.
 
 ### Prerequisite
 
 - Prometheus
-- Bera chain validator node
-- Bera chain metric exporter
+- Berachain validator node
+- Berachain metric exporter
 - Node exporter
 
 #### Install Node exporter
